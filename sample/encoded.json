@@ -1,0 +1,10 @@
+{
+  "plus_as_space": true,
+  "multibyte_expect": "中",
+  "byte_count": 6,
+  "length_invariant": true,
+  "text": "%E4%B8%AD+ok",
+  "stream_text": "abc%2",
+  "bad_text": "abc%zz",
+  "plus_only_text": "a+b"
+}
